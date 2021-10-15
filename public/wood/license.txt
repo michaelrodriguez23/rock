@@ -1,0 +1,11 @@
+Model Information:
+* title:	Petrified Wood
+* source:	https://sketchfab.com/3d-models/petrified-wood-edb6ca3738a84b5c8a5639fc283c2e90
+* author:	RISD Nature Lab (https://sketchfab.com/RISDNaturelab)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Petrified Wood" (https://sketchfab.com/3d-models/petrified-wood-edb6ca3738a84b5c8a5639fc283c2e90) by RISD Nature Lab (https://sketchfab.com/RISDNaturelab) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
